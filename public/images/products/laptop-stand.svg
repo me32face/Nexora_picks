@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <defs>
+    <radialGradient id="bgLight" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </radialGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748b" />
+      <stop offset="100%" stop-color="#475569" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#0f172a" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" fill="url(#bgLight)" />
+  
+  <!-- Subtle Grid Pattern -->
+  <g opacity="0.15">
+    <line x1="100" y1="0" x2="100" y2="600" stroke="#94a3b8" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="250" y1="0" x2="250" y2="600" stroke="#94a3b8" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="400" y1="0" x2="400" y2="600" stroke="#94a3b8" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="550" y1="0" x2="550" y2="600" stroke="#94a3b8" stroke-width="1" stroke-dasharray="6 6"/>
+    <line x1="700" y1="0" x2="700" y2="600" stroke="#94a3b8" stroke-width="1" stroke-dasharray="6 6"/>
+  </g>
+
+  <!-- Editorial Card Shape -->
+  <g filter="url(#shadow)" transform="translate(140, 70)">
+    <rect width="520" height="380" rx="28" fill="#ffffff" />
+    
+    <!-- Accent Top Bar -->
+    <rect width="520" height="8" rx="4" fill="url(#accentGrad)" />
+
+    <!-- Glow Circle Behind Icon -->
+    <circle cx="260" cy="190" r="110" fill="url(#accentGrad)" opacity="0.08" />
+
+    <!-- Icon Graphic -->
+    <g transform="translate(200, 130)">
+      <path d="M20 80 L60 25 L100 80" fill="none" stroke="#6366f1" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="25" y="25" width="70" height="8" rx="4" fill="#ec4899"/>
+        <rect x="15" y="78" width="90" height="8" rx="4" fill="#1e1b4b"/>
+    </g>
+
+    <!-- Badge -->
+    <g transform="translate(40, 36)">
+      <rect width="105" height="26" rx="13" fill="#f1f5f9" />
+      <text x="52" y="17" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="10" fill="#4f46e5" letter-spacing="0.06em">VERIFIED LAB</text>
+    </g>
+
+    <!-- Nexora Watermark -->
+    <text x="480" y="52" text-anchor="end" font-family="system-ui, sans-serif" font-weight="800" font-size="12" fill="#cbd5e1" letter-spacing="0.1em">NEXORA PICKS</text>
+  </g>
+
+  <!-- Bottom Details -->
+  <text x="400" y="505" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="24" fill="#0f172a" letter-spacing="-0.02em">
+    BoYata Aluminum Stand
+  </text>
+  <text x="400" y="538" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="500" font-size="14" fill="#64748b">
+    Dual-Hinge Heavy-Duty Ergonomic Laptop Riser
+  </text>
+</svg>

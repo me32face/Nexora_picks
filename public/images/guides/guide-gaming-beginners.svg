@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="60%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgG)" />
+  
+  <!-- Subtle Glowing Orbs -->
+  <circle cx="1000" cy="150" r="300" fill="#ec4899" opacity="0.12" filter="blur(60px)" />
+  <circle cx="200" cy="500" r="250" fill="#ec4899" opacity="0.08" filter="blur(70px)" />
+  
+  <!-- Top meta line -->
+  <g transform="translate(100, 90)">
+    <rect width="140" height="32" rx="16" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="70" y="21" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#f1f5f9" letter-spacing="0.1em">
+      STARTER GUIDE
+    </text>
+
+    <text x="170" y="21" font-family="system-ui, sans-serif" font-weight="600" font-size="14" fill="#a5b4fc" letter-spacing="0.05em">
+      · GAMING
+    </text>
+  </g>
+
+  <!-- Editorial Headline -->
+  <text x="100" y="220" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="52" fill="#ffffff" letter-spacing="-0.03em">
+    Best Gaming Accessories for Beginners
+  </text>
+
+  <!-- Subtitle line -->
+  <text x="100" y="290" font-family="system-ui, sans-serif" font-weight="500" font-size="22" fill="#94a3b8">
+    Researched and compared for real-world value &amp; durability
+  </text>
+
+  <!-- Divider line -->
+  <line x1="100" y1="350" x2="1100" y2="350" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+
+  <!-- Editorial Pillars -->
+  <g transform="translate(100, 420)">
+    <text x="0" y="0" font-family="system-ui, sans-serif" font-weight="700" font-size="16" fill="#c7d2fe">✓ ZERO SPONSORED BIAS</text>
+    <text x="320" y="0" font-family="system-ui, sans-serif" font-weight="700" font-size="16" fill="#c7d2fe">✓ MULTI-TIER PICKS</text>
+    <text x="640" y="0" font-family="system-ui, sans-serif" font-weight="700" font-size="16" fill="#c7d2fe">✓ UPDATED MONTHLY</text>
+  </g>
+
+  <!-- Nexora watermark -->
+  <g transform="translate(100, 520)">
+    <text x="0" y="22" font-family="system-ui, sans-serif" font-weight="900" font-size="20" fill="url(#glow)" letter-spacing="0.05em">
+      NEXORA PICKS
+    </text>
+    <text x="170" y="22" font-family="system-ui, sans-serif" font-weight="500" font-size="14" fill="#64748b">
+      Smart Finds. Better Choices.
+    </text>
+  </g>
+</svg>

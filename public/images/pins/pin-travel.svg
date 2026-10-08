@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1500" fill="none">
+  <defs>
+    <linearGradient id="pinBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="40%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    <linearGradient id="pinGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="20" stdDeviation="30" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="1500" fill="url(#pinBg)" />
+
+  <!-- Background decorative rings -->
+  <circle cx="850" cy="250" r="350" fill="#6366f1" opacity="0.15" />
+  <circle cx="150" cy="1200" r="400" fill="#ec4899" opacity="0.1" />
+
+  <!-- Top Brand Tag -->
+  <g transform="translate(100, 100)">
+    <rect width="200" height="42" rx="21" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+    <text x="100" y="27" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#ffffff" letter-spacing="0.15em">
+      NEXORA PICKS
+    </text>
+  </g>
+
+  <!-- Tag badge -->
+  <g transform="translate(100, 200)">
+    <rect width="220" height="48" rx="12" fill="url(#pinGrad)" />
+    <text x="110" y="31" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="16" fill="#ffffff" letter-spacing="0.1em">
+      TRAVEL SMARTER
+    </text>
+  </g>
+
+  <!-- Big Title -->
+  <text x="100" y="380" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="64" fill="#ffffff" letter-spacing="-0.03em">
+    SMART COMMUTER &amp; TRAVEL GEAR
+  </text>
+
+  <!-- Subtitle -->
+  <text x="100" y="560" font-family="system-ui, sans-serif" font-weight="600" font-size="28" fill="#c7d2fe">
+    Lightweight Organizers That Last
+  </text>
+
+  <!-- Card Illustration Container -->
+  <g filter="url(#cardShadow)" transform="translate(100, 640)">
+    <rect width="800" height="580" rx="36" fill="#ffffff" />
+    
+    <!-- Header pill -->
+    <rect x="50" y="50" width="160" height="38" rx="19" fill="#ede9fe" />
+    <text x="130" y="74" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="14" fill="#6d28d9">
+      6 PACKING FINDS
+    </text>
+
+    <!-- 3 Mini Items listed inside card -->
+    <g transform="translate(50, 130)">
+      <rect width="700" height="100" rx="18" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+      <circle cx="50" cy="50" r="22" fill="#6366f1" />
+      <text x="50" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="18" fill="#ffffff">1</text>
+      <text x="95" y="44" font-family="system-ui, sans-serif" font-weight="800" font-size="20" fill="#0f172a">Top Overall Pick</text>
+      <text x="95" y="70" font-family="system-ui, sans-serif" font-weight="500" font-size="14" fill="#64748b">Verified balance of build, performance &amp; ergonomics</text>
+    </g>
+
+    <g transform="translate(50, 255)">
+      <rect width="700" height="100" rx="18" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+      <circle cx="50" cy="50" r="22" fill="#ec4899" />
+      <text x="50" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="18" fill="#ffffff">2</text>
+      <text x="95" y="44" font-family="system-ui, sans-serif" font-weight="800" font-size="20" fill="#0f172a">Best Budget Contender</text>
+      <text x="95" y="70" font-family="system-ui, sans-serif" font-weight="500" font-size="14" fill="#64748b">Exceptional price-to-performance without compromise</text>
+    </g>
+
+    <g transform="translate(50, 380)">
+      <rect width="700" height="100" rx="18" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+      <circle cx="50" cy="22" r="22" fill="#8b5cf6" />
+      <text x="50" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="800" font-size="18" fill="#ffffff">3</text>
+      <text x="95" y="44" font-family="system-ui, sans-serif" font-weight="800" font-size="20" fill="#0f172a">Premium Long-Term Investment</text>
+      <text x="95" y="70" font-family="system-ui, sans-serif" font-weight="500" font-size="14" fill="#64748b">Built for daily heavy workflow with class-leading specs</text>
+    </g>
+
+    <!-- Footer of card -->
+    <text x="400" y="535" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="16" fill="#4f46e5">
+      nexorapicks.com/guides
+    </text>
+  </g>
+
+  <!-- Bottom CTA in Pin -->
+  <g transform="translate(100, 1310)">
+    <rect width="800" height="90" rx="24" fill="url(#pinGrad)" />
+    <text x="400" y="54" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="900" font-size="22" fill="#ffffff" letter-spacing="0.05em">
+      TAP TO READ COMPLETE BUYING GUIDE →
+    </text>
+  </g>
+</svg>
