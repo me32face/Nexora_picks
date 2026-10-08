@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 export async function POST(request) {
   try {
     const { password } = await request.json();
-    const expectedPassword = process.env.ADMIN_PASSWORD || "nexora2026";
+    const expectedPassword = process.env.ADMIN_PASSWORD;
 
     if (!password || password !== expectedPassword) {
       return NextResponse.json(

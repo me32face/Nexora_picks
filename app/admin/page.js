@@ -260,10 +260,6 @@ export default function AdminPage() {
               {isVerifying ? "Verifying..." : "Unlock Studio"}
             </button>
           </form>
-
-          <p className="text-[11px] text-slate-400">
-            Default password: <code className="bg-slate-100 dark:bg-slate-800 px-1 py-0.5 rounded">nexora2026</code>
-          </p>
         </div>
       </div>
     );

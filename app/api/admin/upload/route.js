@@ -14,7 +14,7 @@ export async function POST(request) {
     const file = formData.get("file");
     const password = formData.get("password");
 
-    const expectedPassword = process.env.ADMIN_PASSWORD || "nexora2026";
+    const expectedPassword = process.env.ADMIN_PASSWORD;
     if (!password || password !== expectedPassword) {
       return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
