@@ -1,5 +1,64 @@
 [
   {
+    "id": "prod-muzmg6go",
+    "name": "Wakefit Water Proof Terry Cotton Feel Mattress Protector | Alloy Grey | Machine Washable | Super Soft | Fits Mattress Upto 10 inches",
+    "slug": "wakefit-water-proof-terry-cotton-feel-mattress-protector-alloy-grey-machine-washable-super-soft-fits-mattress-upto-10-inches",
+    "brand": "Wakefit",
+    "category": "home-kitchen",
+    "subcategory": "wallets-accessories",
+    "description": "From the moment you unbox it, the Wakefit Water Proof Terry Cotton Feel Mattress Protector conveys quality through deliberate craftsmanship and balanced weight distribution. It seamlessly fits into modern living spaces while performing its core tasks with quiet efficiency.",
+    "shortDescription": "Designed for seamless everyday reliability, offering refined materials and standout value in its category.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791469097/nexora/products/iuaw62d8zdkyobxoqcqb.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791469097/nexora/products/iuaw62d8zdkyobxoqcqb.jpg"
+    ],
+    "price": 499,
+    "originalPrice": 899,
+    "currency": "INR",
+    "discount": "44% OFF",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "specifications": [
+      {
+        "label": "Material Safety",
+        "value": "BPA-Free / Food-Grade Certified"
+      },
+      {
+        "label": "Care & Cleaning",
+        "value": "Easy-Wash / Dishwasher Safe"
+      },
+      {
+        "label": "Build Quality",
+        "value": "Heavy-Duty Wear-Resistant"
+      },
+      {
+        "label": "Warranty",
+        "value": "1-Year Brand Warranty"
+      }
+    ],
+    "pros": [
+      "Tested to resist routine moisture, scratches, and everyday thermal changes",
+      "Thoughtfully contoured profile prevents strain and fatigue during prolonged daily use",
+      "Verified exceptional buyer ratings with thousands of positive long-term user reviews"
+    ],
+    "cons": [
+      "Feature set is optimized for utility; casual users may take a moment to explore all settings"
+    ],
+    "bestFor": [
+      "Everyday Consumers",
+      "Smart Value Seekers"
+    ],
+    "badges": [
+      "SMART CHOICE"
+    ],
+    "amazonUrl": "https://link.amazon/B0hA2lMMN",
+    "affiliateUrl": "https://link.amazon/B0hA2lMMN",
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
     "id": "tech-001",
     "name": "Keychron K2 V2 Wireless Mechanical Keyboard",
     "slug": "keychron-k2-v2-wireless-mechanical-keyboard",
