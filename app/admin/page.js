@@ -209,6 +209,31 @@ export default function AdminPage() {
     }
   }
 
+  // Auto-generate descriptions and pros/cons if user has no time
+  function handleAutoFill() {
+    if (!name) {
+      alert("Please enter the Product Title first so we can auto-fill details for it!");
+      return;
+    }
+
+    const cleanTitle = name.split("|")[0].split("-")[0].trim();
+    setShortDescription(`${cleanTitle} curated by Nexora Picks for premium build quality and verified utility.`);
+    setDescription(`Extensively evaluated by our editorial desk. The ${cleanTitle} stands out in its price category with dependable durability, clean aesthetics, and proven customer satisfaction.`);
+    setPros([
+      "Class-leading performance and build quality in its price range",
+      "Thoughtfully engineered for everyday reliability and ease of use",
+      "Verified positive long-term customer satisfaction"
+    ]);
+    setCons([
+      "High seasonal demand can occasionally cause stock and delivery delays"
+    ]);
+    setSpecs([
+      { label: "Category", value: CATEGORIES.find(c => c.id === category)?.name || "Lifestyle" },
+      { label: "Build Quality", value: "Premium Grade" },
+      { label: "Warranty", value: "Manufacturer Standard" }
+    ]);
+  }
+
   // Calculate discount
   const discountPercent = price && originalPrice && Number(originalPrice) > Number(price)
     ? Math.round(((Number(originalPrice) - Number(price)) / Number(originalPrice)) * 100)
@@ -342,14 +367,24 @@ export default function AdminPage() {
           </div>
         )}
 
-        <form onSubmit={handlePublish} className="mt-8 grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+        <form onSubmit={handlePublish} className="mt-8 grid grid-cols-1 xl:grid-cols-12 gap-8 items-start">
           {/* Main Form Fields (Left Column) */}
-          <div className="lg:col-span-7 space-y-6">
+          <div className="xl:col-span-7 space-y-6">
             {/* Box 1: Core Details */}
             <div className="p-6 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm space-y-4">
-              <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400">
-                1. Product Information
-              </h2>
+              <div className="flex items-center justify-between">
+                <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400">
+                  1. Product Information
+                </h2>
+                <button
+                  type="button"
+                  onClick={handleAutoFill}
+                  className="px-3 py-1 rounded-xl bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-950/60 dark:hover:bg-indigo-900/60 text-indigo-600 dark:text-indigo-400 font-bold text-xs flex items-center gap-1.5 border border-indigo-200 dark:border-indigo-800 transition-colors"
+                >
+                  <span>✨</span>
+                  <span>Auto-Fill Details</span>
+                </button>
+              </div>
 
               <div>
                 <label className="block text-xs font-bold text-slate-700 dark:text-slate-300 mb-1">
@@ -509,13 +544,28 @@ export default function AdminPage() {
 
             {/* Box 4: Editorial Content */}
             <div className="p-6 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm space-y-4">
-              <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400">
-                4. Review & Editorial
-              </h2>
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+                <div>
+                  <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400">
+                    4. Review & Editorial
+                  </h2>
+                  <p className="text-[11px] text-slate-400 mt-0.5">
+                    100% Optional — Auto-generated if left blank!
+                  </p>
+                </div>
+                <button
+                  type="button"
+                  onClick={handleAutoFill}
+                  className="px-3 py-1 rounded-xl bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-950/60 dark:hover:bg-indigo-900/60 text-indigo-600 dark:text-indigo-400 font-bold text-xs flex items-center gap-1.5 border border-indigo-200 dark:border-indigo-800 transition-colors w-fit"
+                >
+                  <span>✨</span>
+                  <span>Auto-Fill Everything</span>
+                </button>
+              </div>
 
               <div>
                 <label className="block text-xs font-bold text-slate-700 dark:text-slate-300 mb-1">
-                  Short One-Line Summary
+                  Short One-Line Summary (Optional)
                 </label>
                 <input
                   type="text"
@@ -633,7 +683,7 @@ export default function AdminPage() {
           </div>
 
           {/* Live Preview Panel (Right Column) */}
-          <div className="lg:col-span-5 sticky top-24 space-y-4">
+          <div className="xl:col-span-5 sticky top-24 space-y-4">
             <div className="flex items-center justify-between">
               <span className="text-xs font-bold uppercase tracking-wider text-slate-400">
                 Live Card Preview
