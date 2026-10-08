@@ -150,6 +150,7 @@ export const categories = [
     icon: "compass",
     color: "#10b981",
     subcategories: [
+      { id: "wallets-accessories", name: "Wallets & EDC", slug: "wallets-accessories" },
       { id: "travel-organizers", name: "Tech Pouches & Cubes", slug: "travel-organizers" },
       { id: "backpacks", name: "Commuter Backpacks", slug: "backpacks" },
       { id: "bottles", name: "Insulated Drinkware", slug: "bottles" },

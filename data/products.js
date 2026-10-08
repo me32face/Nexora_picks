@@ -1287,6 +1287,60 @@ export const products = [
     isEditorsPick: false,
     isDemo: false,
     lastUpdated: "2026-10-08"
+  },
+  {
+    id: "travel-005",
+    name: "URBAN FOREST Oliver Black RFID Leather Wallet for Men",
+    slug: "urban-forest-oliver-black-rfid-leather-wallet",
+    brand: "URBAN FOREST",
+    category: "travel-lifestyle",
+    subcategory: "wallets-accessories",
+    description: "Crafted from hand-selected genuine leather, the URBAN FOREST Oliver wallet combines classic gentleman's elegance with cutting-edge RFID blocking technology. Features 6 card slots, 2 spacious currency compartments, an integrated coin pouch, and transparent ID windows, all in a slim, pocket-friendly bifold profile.",
+    shortDescription: "Handcrafted genuine leather bifold wallet with built-in RFID fraud protection and 6 card slots.",
+    image: "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791459795/nexora/products/urban-forest-oliver-black-rfid-leather-wallet.jpg",
+    gallery: [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791459795/nexora/products/urban-forest-oliver-black-rfid-leather-wallet.jpg"
+    ],
+    price: 469,
+    originalPrice: 2000,
+    currency: "INR",
+    discount: "77% OFF",
+    rating: 4.3,
+    reviewCount: 12186,
+    specifications: [
+      { label: "Material", value: "100% Genuine Full-Grain Leather" },
+      { label: "Security", value: "Military-grade RFID Blocking Technology" },
+      { label: "Card Capacity", value: "6 Dedicated Card Slots" },
+      { label: "Currency Compartments", value: "2 Full-Length Cash Slots" },
+      { label: "Coin Pocket", value: "Yes, Snap Button Coin Pouch" },
+      { label: "Dimensions", value: "11.5 x 9 x 2 cm" },
+      { label: "Weight", value: "110 grams" }
+    ],
+    pros: [
+      "Premium genuine leather with smooth matte finish and robust contrast stitching",
+      "Active RFID blocking prevents electronic card skimming and wireless theft",
+      "Generous 6 card slots plus coin pouch without adding pocket bulk",
+      "Exceptional 77% discount during Great Indian Festival"
+    ],
+    cons: [
+      "Genuine leather takes a few days of daily carry to soften and form to pockets",
+      "Overfilling the coin pouch can increase folded thickness"
+    ],
+    bestFor: [
+      "Everyday Carry (EDC)",
+      "Birthday & Festive Gifting",
+      "Commuters & Contactless Card Security"
+    ],
+    badges: [
+      "EDITOR'S PICK",
+      "FESTIVAL DEAL"
+    ],
+    amazonUrl: "https://www.amazon.in/Forest-Oliver-Blocking-Leather-Wallet/dp/B07XTJDJ7N",
+    affiliateUrl: "https://link.amazon/B0hKlZrVC",
+    isFeatured: true,
+    isEditorsPick: true,
+    isDemo: false,
+    lastUpdated: "2026-10-08"
   }
 ];
 
