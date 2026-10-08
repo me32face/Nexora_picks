@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "tech-001",
+    "name": "Keychron K2 V2 Wireless Mechanical Keyboard",
+    "slug": "keychron-k2-v2-wireless-mechanical-keyboard",
+    "brand": "Keychron",
+    "category": "tech-gadgets",
+    "subcategory": "keyboards",
+    "description": "The Keychron K2 V2 is a premier 75% compact wireless mechanical keyboard engineered for seamless productivity. Features hot-swappable Gateron G Pro mechanical switches, dual macOS and Windows compatibility with dedicated switch and keycaps, Bluetooth 5.1 pairing across 3 devices, and a generous 4000mAh rechargeable battery.",
+    "shortDescription": "Compact 75% wireless mechanical keyboard with hot-swap switches and Mac/Win layout.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451583/nexora/products/keychron-k2-v2-wireless-mechanical-keyboard.jpg",
+    "gallery": [
+      "/images/products/keyboard-wireless.svg"
+    ],
+    "price": 7499,
+    "originalPrice": 9499,
+    "currency": "INR",
+    "discount": "21% OFF",
+    "rating": 4.7,
+    "reviewCount": 3840,
+    "specifications": [
+      {
+        "label": "Layout",
+        "value": "75% Compact (84 Keys)"
+      },
+      {
+        "label": "Switch Options",
+        "value": "Gateron G Pro Brown / Red / Blue (Hot-swappable)"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth 5.1 & USB-C Wired"
+      },
+      {
+        "label": "Battery Capacity",
+        "value": "4000 mAh (up to 240 hours without backlight)"
+      },
+      {
+        "label": "Backlighting",
+        "value": "White LED / RGB with 18 dynamic effects"
+      },
+      {
+        "label": "OS Support",
+        "value": "macOS, iOS, Windows, Android"
+      },
+      {
+        "label": "Weight",
+        "value": "790 grams"
+      }
+    ],
+    "pros": [
+      "Dedicated Mac multimedia row keys pre-configured out of the box",
+      "Robust Bluetooth 5.1 with instantaneous 3-device toggle",
+      "Massive 4000mAh battery delivers weeks of typist battery life",
+      "Hot-swappable sockets let you upgrade switches without soldering"
+    ],
+    "cons": [
+      "Thicker chassis benefits from a separate wrist rest for long sessions",
+      "Bluetooth latency is ideal for typing, but heavy esports require wired mode"
+    ],
+    "bestFor": [
+      "Software Developers",
+      "Writers & Copywriters",
+      "Mac & Windows Multi-Device Setups"
+    ],
+    "badges": [
+      "EDITOR'S PICK",
+      "BEST VALUE"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Keychron+K2+Wireless+Mechanical+Keyboard",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "tech-002",
+    "name": "Logitech MX Master 3S Wireless Performance Mouse",
+    "slug": "logitech-mx-master-3s-wireless-mouse",
+    "brand": "Logitech",
+    "category": "tech-gadgets",
+    "subcategory": "mice",
+    "description": "The gold standard of productivity ergonomics. The Logitech MX Master 3S introduces Quiet Click switches that reduce acoustic click noise by 90%, an 8000 DPI Darkfield optical sensor that tracks flawlessly even on clear glass tables, and the MagSpeed electromagnetic scroll wheel capable of scrolling 1,000 lines per second.",
+    "shortDescription": "Ultra-quiet ergonomic wireless mouse with 8000 DPI glass tracking and MagSpeed wheel.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451584/nexora/products/logitech-mx-master-3s-wireless-mouse.jpg",
+    "gallery": [
+      "/images/products/mouse-ergonomic.svg"
+    ],
+    "price": 8995,
+    "originalPrice": 10995,
+    "currency": "INR",
+    "discount": "18% OFF",
+    "rating": 4.8,
+    "reviewCount": 14200,
+    "specifications": [
+      {
+        "label": "Sensor",
+        "value": "Darkfield High Precision (200 - 8000 DPI)"
+      },
+      {
+        "label": "Scroll Wheel",
+        "value": "MagSpeed Electromagnetic with SmartShift"
+      },
+      {
+        "label": "Thumb Controls",
+        "value": "Horizontal thumb wheel & gesture button"
+      },
+      {
+        "label": "Connectivity",
+        "value": "Bluetooth Low Energy & Logi Bolt USB Receiver"
+      },
+      {
+        "label": "Battery Life",
+        "value": "Up to 70 days on full charge (USB-C quick charge)"
+      },
+      {
+        "label": "Dimensions",
+        "value": "124.9 x 84.3 x 51 mm"
+      },
+      {
+        "label": "Weight",
+        "value": "141 grams"
+      }
+    ],
+    "pros": [
+      "Whisper-quiet clicks prevent library and open-office distraction",
+      "Tracks effortlessly on transparent glass, wood, and granite desks",
+      "Horizontal thumb wheel is unmatched for editing timelines and wide spreadsheets",
+      "Logi Options+ enables app-specific custom button mapping"
+    ],
+    "cons": [
+      "Right-handed sculpt only (not suitable for left-handed users)",
+      "Heavier profile not built for fast-twitch FPS gaming"
+    ],
+    "bestFor": [
+      "Designers & Video Editors",
+      "Financial Analysts",
+      "Work-from-Home Professionals"
+    ],
+    "badges": [
+      "TOP RATED",
+      "EDITOR'S PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Logitech+MX+Master+3S",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "tech-003",
+    "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "slug": "sony-wh-1000xm5-noise-canceling-headphones",
+    "brand": "Sony",
+    "category": "tech-gadgets",
+    "subcategory": "headphones",
+    "description": "Equipped with two processors and 8 microphones, the Sony WH-1000XM5 delivers unmatched active noise cancellation that automatically optimizes against high-frequency train and cafe chatter. Features carbon-fiber 30mm precision drivers, LDAC high-resolution audio streaming, crystal-clear beamforming microphone calls, and 30-hour battery life.",
+    "shortDescription": "Flagship over-ear noise canceling headphones with 8-mic Auto NC Optimizer.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451585/nexora/products/sony-wh-1000xm5-noise-canceling-headphones.jpg",
+    "gallery": [
+      "/images/products/headphones-anc.svg"
+    ],
+    "price": 26990,
+    "originalPrice": 34990,
+    "currency": "INR",
+    "discount": "23% OFF",
+    "rating": 4.7,
+    "reviewCount": 16800,
+    "specifications": [
+      {
+        "label": "Driver Unit",
+        "value": "30mm Carbon Fiber Composite Dome"
+      },
+      {
+        "label": "Noise Canceling",
+        "value": "Integrated Processor V1 + HD QN1 with 8 Mics"
+      },
+      {
+        "label": "Bluetooth Codecs",
+        "value": "LDAC, AAC, SBC (Hi-Res Audio Wireless)"
+      },
+      {
+        "label": "Battery Life",
+        "value": "30 hours (ANC on) / 40 hours (ANC off)"
+      },
+      {
+        "label": "Quick Charge",
+        "value": "3 minutes charge delivers 3 hours playback"
+      },
+      {
+        "label": "Multipoint",
+        "value": "Simultaneous dual-device pairing"
+      },
+      {
+        "label": "Weight",
+        "value": "250 grams"
+      }
+    ],
+    "pros": [
+      "Exceptional attenuation of human speech and plane engine rumble",
+      "Ultra-soft synthetic leather headband causes zero crown pressure points",
+      "Speak-to-Chat pauses music automatically when you order a coffee",
+      "Class-leading voice call clarity in windy outdoor conditions"
+    ],
+    "cons": [
+      "Earcups fold flat but headband does not collapse inward into a ball",
+      "Premium investment price point"
+    ],
+    "bestFor": [
+      "Frequent Air Travelers",
+      "Open-Office & Cafe Workers",
+      "Audiophiles & Students"
+    ],
+    "badges": [
+      "BEST OVERALL ANC",
+      "PREMIUM PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Sony+WH-1000XM5",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "tech-004",
+    "name": "Anker 735 65W GaNPrime Fast Wall Charger",
+    "slug": "anker-735-65w-ganprime-fast-charger",
+    "brand": "Anker",
+    "category": "tech-gadgets",
+    "subcategory": "chargers",
+    "description": "Replace bulky OEM power bricks with the palm-sized Anker 735 GaNPrime adapter. Packing two high-speed USB-C Power Delivery ports and one USB-A port, it charges a MacBook Air, an iPhone, and wireless earbuds simultaneously from a single AC outlet while running noticeably cooler thanks to ActiveShield 2.0 temperature monitoring.",
+    "shortDescription": "Ultra-compact 65W GaN 3-port charger with dynamic intelligent power allocation.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451586/nexora/products/anker-735-65w-ganprime-fast-charger.jpg",
+    "gallery": [
+      "/images/products/charger-gan.svg"
+    ],
+    "price": 3999,
+    "originalPrice": 4999,
+    "currency": "INR",
+    "discount": "20% OFF",
+    "rating": 4.6,
+    "reviewCount": 8900,
+    "specifications": [
+      {
+        "label": "Total Output",
+        "value": "65W Max Power Delivery"
+      },
+      {
+        "label": "Ports",
+        "value": "2x USB-C (PowerIQ 4.0), 1x USB-A (PowerIQ 3.0)"
+      },
+      {
+        "label": "Technology",
+        "value": "GaNPrime (Gallium Nitride) Architecture"
+      },
+      {
+        "label": "Safety",
+        "value": "ActiveShield 2.0 Real-Time Thermal Guard"
+      },
+      {
+        "label": "Dimensions",
+        "value": "38.2 x 29.1 x 66.1 mm (53% smaller than Apple 67W)"
+      },
+      {
+        "label": "Weight",
+        "value": "132 grams"
+      }
+    ],
+    "pros": [
+      "Powers a modern 13\" or 15\" ultrabook and smartphone at the same time",
+      "Dynamic power sharing detects which plugged device needs faster juice",
+      "Substantial weight reduction in daily commuter backpacks",
+      "Foldable wall prongs prevent scratching screens inside bags"
+    ],
+    "cons": [
+      "Maximum single-port output is 65W (not suitable for 100W+ gaming laptops)",
+      "High-output simultaneous load can cause brief renegotiation pause"
+    ],
+    "bestFor": [
+      "Digital Nomads",
+      "Commuter Minimalists",
+      "One-Plug Desk Setups"
+    ],
+    "badges": [
+      "BEST VALUE",
+      "COMPACT CHAMPION"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Anker+735+65W+Charger",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "tech-005",
+    "name": "Anker 737 Power Bank (PowerCore 24K 140W)",
+    "slug": "anker-737-power-bank-24000mah-140w",
+    "brand": "Anker",
+    "category": "tech-gadgets",
+    "subcategory": "power-banks",
+    "description": "The pinnacle of portable power delivery. Featuring a 24,000mAh battery pack with bi-directional 140W USB Power Delivery 3.1, this powerhouse charges a 16-inch MacBook Pro from 0 to 50% in just 28 minutes. Its smart interactive digital screen displays real-time input wattage, output wattage, internal cell temperatures, and battery health.",
+    "shortDescription": "Ultra-fast 24,000mAh portable charger with 140W two-way charging and smart display.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451661/nexora/products/anker-737-power-bank-24000mah-140w.jpg",
+    "gallery": [
+      "/images/products/powerbank-slim.svg"
+    ],
+    "price": 11999,
+    "originalPrice": 14999,
+    "currency": "INR",
+    "discount": "20% OFF",
+    "rating": 4.8,
+    "reviewCount": 5200,
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "24,000 mAh (86.4 Wh - Flight Safe TSA Approved)"
+      },
+      {
+        "label": "Max Output",
+        "value": "140W Single Port (USB PD 3.1)"
+      },
+      {
+        "label": "Ports",
+        "value": "2x USB-C (140W In/Out), 1x USB-A (18W)"
+      },
+      {
+        "label": "Recharge Speed",
+        "value": "0 to 100% in 52 minutes with 140W wall adapter"
+      },
+      {
+        "label": "Display",
+        "value": "Full-color smart TFT display"
+      },
+      {
+        "label": "Weight",
+        "value": "635 grams"
+      }
+    ],
+    "pros": [
+      "140W continuous output charges demanding MacBook Pro and Dell XPS laptops",
+      "Informative display shows exact battery percentage and recharge countdown",
+      "TSA flight-compliant (well under the 100Wh airline carry-on limit)",
+      "Can recharge itself while simultaneously charging connected electronics"
+    ],
+    "cons": [
+      "Substantial 635g weight feels noticeable inside coat pockets",
+      "Higher price point than basic 20W power banks"
+    ],
+    "bestFor": [
+      "Field Creators & Videographers",
+      "Long-Haul Flight Travelers",
+      "Power Laptop Users"
+    ],
+    "badges": [
+      "BEST PERFORMANCE",
+      "TECH INNOVATION"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Anker+737+Power+Bank+24K",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "tech-006",
+    "name": "Amazon Kindle Paperwhite (16GB, 6.8\" Display)",
+    "slug": "amazon-kindle-paperwhite-16gb-6-8-inch",
+    "brand": "Amazon",
+    "category": "tech-gadgets",
+    "subcategory": "mobile-devices",
+    "description": "The Kindle Paperwhite combines a flush-front 6.8-inch 300 ppi glare-free display with adjustable warm light (amber to white) to protect circadian rhythm reading at night. With USB-C fast charging, an IPX8 waterproof rating for reading by the pool, and up to 10 weeks of battery life per charge, it represents the purest distraction-free reading experience.",
+    "shortDescription": "Glare-free 6.8-inch e-reader with warm light, IPX8 waterproofing, and 10-week battery.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451589/nexora/products/amazon-kindle-paperwhite-16gb-6-8-inch.jpg",
+    "gallery": [
+      "/images/products/kindle-reader.svg"
+    ],
+    "price": 14999,
+    "originalPrice": 16999,
+    "currency": "INR",
+    "discount": "12% OFF",
+    "rating": 4.7,
+    "reviewCount": 28400,
+    "specifications": [
+      {
+        "label": "Display Size",
+        "value": "6.8\" Paperwhite with built-in light, 300 ppi"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB (Holds thousands of books)"
+      },
+      {
+        "label": "Warm Light",
+        "value": "Adjustable color temperature from white to warm amber"
+      },
+      {
+        "label": "Waterproofing",
+        "value": "IPX8 (Immersion in 2 meters of fresh water for 60 min)"
+      },
+      {
+        "label": "Battery Life",
+        "value": "Up to 10 weeks based on 30 minutes reading daily"
+      },
+      {
+        "label": "Charging",
+        "value": "USB-C wired charge"
+      },
+      {
+        "label": "Weight",
+        "value": "205 grams"
+      }
+    ],
+    "pros": [
+      "Zero screen glare even when reading under intense direct sunlight",
+      "Warm amber light prevents eye strain during late-night bedtime reads",
+      "Featherweight 205g build is comfortable for one-handed reading for hours",
+      "Weeks of battery life means you leave the charger at home during vacations"
+    ],
+    "cons": [
+      "Black and white E-ink display not suitable for color graphic novels",
+      "Page turn speed is snappy for text, but slower than an iPad"
+    ],
+    "bestFor": [
+      "Avid Book Readers",
+      "Students & Researchers",
+      "Nighttime Readers"
+    ],
+    "badges": [
+      "BEST E-READER",
+      "ESSENTIAL"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Kindle+Paperwhite+16GB",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "work-001",
+    "name": "BoYata Ergonomic Aluminum Laptop Stand",
+    "slug": "boyata-ergonomic-aluminum-laptop-stand",
+    "brand": "BoYata",
+    "category": "work-study",
+    "subcategory": "laptop-stands",
+    "description": "Eliminate neck hunch and rounded shoulders with the BoYata dual-axis aluminum laptop riser. Crafted from CNC-milled 3mm aviation-grade aluminum, it easily supports up to 20kg without wobbling. Large heat-ventilation cutouts dissipate laptop thermal buildup, while protective silicone cushions shield delicate anodized laptop finishes.",
+    "shortDescription": "Ultra-stable dual-hinge adjustable aluminum riser for laptops up to 17 inches.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451590/nexora/products/boyata-ergonomic-aluminum-laptop-stand.jpg",
+    "gallery": [
+      "/images/products/laptop-stand.svg"
+    ],
+    "price": 2899,
+    "originalPrice": 3999,
+    "currency": "INR",
+    "discount": "28% OFF",
+    "rating": 4.8,
+    "reviewCount": 9450,
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "Anodized Aerospace Aluminum Alloy"
+      },
+      {
+        "label": "Adjustment",
+        "value": "Dual Z-Type Axis (Height up to 19cm, Tilt 0° to 60°)"
+      },
+      {
+        "label": "Compatibility",
+        "value": "Laptops 10\" to 17\" (MacBook, Dell, ThinkPad, HP)"
+      },
+      {
+        "label": "Load Capacity",
+        "value": "Up to 20 kg (44 lbs)"
+      },
+      {
+        "label": "Thermal Design",
+        "value": "U-Shaped heat-dissipation airflow vent"
+      },
+      {
+        "label": "Weight",
+        "value": "1150 grams"
+      }
+    ],
+    "pros": [
+      "Raises laptop camera perfectly to eye level for flattering Zoom video calls",
+      "Heavy-duty tension hinges stay firmly locked without slipping or sagging",
+      "Allows keyboard and mouse to tuck neatly underneath when not in use",
+      "Passive thermal airflow drops laptop core temperatures by 4-6°C"
+    ],
+    "cons": [
+      "Stiff hinges require two hands to adjust angle (by design for stability)",
+      "1.15kg weight makes it better suited for desk setups than travel packs"
+    ],
+    "bestFor": [
+      "Work-from-Home Desks",
+      "College Dorm Rooms",
+      "Zoom Video Call Professionals"
+    ],
+    "badges": [
+      "BEST ERGONOMIC BUY",
+      "EDITOR'S PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=BoYata+Laptop+Stand",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "work-002",
+    "name": "BenQ ScreenBar Plus Monitor Light Bar",
+    "slug": "benq-screenbar-plus-monitor-light",
+    "brand": "BenQ",
+    "category": "work-study",
+    "subcategory": "desk-lamps",
+    "description": "The original and most refined monitor light bar. The BenQ ScreenBar Plus mounts directly atop any flat or curved monitor with a counterweight clip, taking up zero desk real estate. Its patented asymmetric optical design casts illumination forward across your documents and keyboard without a single lumen of reflective glare bouncing off the monitor screen.",
+    "shortDescription": "Zero-glare asymmetric monitor task lamp with precision desktop dial controller.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451591/nexora/products/benq-screenbar-plus-monitor-light.jpg",
+    "gallery": [
+      "/images/products/desk-lamp.svg"
+    ],
+    "price": 12990,
+    "originalPrice": 15990,
+    "currency": "INR",
+    "discount": "19% OFF",
+    "rating": 4.8,
+    "reviewCount": 3800,
+    "specifications": [
+      {
+        "label": "Illuminance",
+        "value": "1000 Lux in center (ANSI compliant)"
+      },
+      {
+        "label": "Optical Design",
+        "value": "Patented Asymmetric Chamfer (Zero Screen Glare)"
+      },
+      {
+        "label": "Color Temperature",
+        "value": "Adjustable 2700K (Warm) to 6500K (Cool White)"
+      },
+      {
+        "label": "Color Rendering",
+        "value": "CRI > 95 for realistic color accuracy"
+      },
+      {
+        "label": "Controls",
+        "value": "Desktop Rotary Dial with built-in ambient light sensor"
+      },
+      {
+        "label": "Power",
+        "value": "USB powered (5V, 1A)"
+      }
+    ],
+    "pros": [
+      "Desktop dial lets you dial in brightness and color temperature intuitively",
+      "Auto-dimming sensor adjusts lighting smoothly throughout changing daylight",
+      "Saves 100% of the desk space taken by bulky lamp bases",
+      "High CRI rating renders printed paperwork with studio-accurate colors"
+    ],
+    "cons": [
+      "Premium price compared to budget unbranded light bars",
+      "Cable running from monitor clip to desktop dial requires tidy routing"
+    ],
+    "bestFor": [
+      "Software Engineers",
+      "Graphic Designers & Artists",
+      "Night Owls & Late-Shift Workers"
+    ],
+    "badges": [
+      "BEST MONITOR LIGHT",
+      "PREMIUM PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=BenQ+ScreenBar+Plus",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "work-003",
+    "name": "Logitech C920x HD Pro Webcam (1080p/30fps)",
+    "slug": "logitech-c920x-hd-pro-webcam",
+    "brand": "Logitech",
+    "category": "work-study",
+    "subcategory": "desk-accessories",
+    "description": "The most trusted HD webcam in remote work history. The Logitech C920x features a full glass lens, sharp 1080p video capture at 30 fps, automatic HD light correction that balances harsh shadows or dim indoor rooms, and dual omni-directional stereo microphones that capture natural vocal clarity.",
+    "shortDescription": "Full HD 1080p video calling webcam with dual stereo mics and light correction.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451592/nexora/products/logitech-c920x-hd-pro-webcam.jpg",
+    "gallery": [
+      "/images/products/webcam-hd.svg"
+    ],
+    "price": 6495,
+    "originalPrice": 8495,
+    "currency": "INR",
+    "discount": "24% OFF",
+    "rating": 4.6,
+    "reviewCount": 32000,
+    "specifications": [
+      {
+        "label": "Resolution",
+        "value": "1080p / 30fps or 720p / 30fps"
+      },
+      {
+        "label": "Field of View",
+        "value": "78° diagonal wide angle"
+      },
+      {
+        "label": "Focus Type",
+        "value": "Fast Automatic Autofocus"
+      },
+      {
+        "label": "Lens",
+        "value": "Full HD 5-element glass lens"
+      },
+      {
+        "label": "Microphone",
+        "value": "Built-in dual stereo mics with noise reduction"
+      },
+      {
+        "label": "Mounting",
+        "value": "Universal monitor clip + 1/4\" tripod screw thread"
+      }
+    ],
+    "pros": [
+      "Plug-and-play USB connection on Windows, macOS, and ChromeOS with no driver hassle",
+      "RightLight 2 technology prevents washed-out face exposure near window light",
+      "78-degree field of view fits 1-2 people without looking fish-eyed",
+      "Included tripod mounting thread allows versatile camera angles"
+    ],
+    "cons": [
+      "Capped at 30fps (60fps requires step-up to Logitech Brio or StreamCam)",
+      "Does not include a built-in sliding privacy shutter (cover clip sold separately)"
+    ],
+    "bestFor": [
+      "Zoom & Google Meet Calls",
+      "Online Tutors & Students",
+      "Remote Corporate Professionals"
+    ],
+    "badges": [
+      "BEST VALUE WEBCAM",
+      "BEST SELLER"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Logitech+C920+HD+Pro+Webcam",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "work-004",
+    "name": "CalDigit TS4 Thunderbolt 4 Dock (18 Ports)",
+    "slug": "caldigit-ts4-thunderbolt-4-dock",
+    "brand": "CalDigit",
+    "category": "work-study",
+    "subcategory": "desk-accessories",
+    "description": "The undisputed heavyweight champion of single-cable docking stations. Delivering an unbelievable 18 ports of connectivity, 98W host charging, 2.5 Gigabit Ethernet, dual 6K display support on Apple Silicon / PC, front-facing UHS-II SD cards, and high-wattage 20W front USB-C ports, the TS4 turns any laptop into an uncompromising desktop workstation.",
+    "shortDescription": "Flagship 18-port Thunderbolt 4 dock with 98W laptop charging and dual display output.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451593/nexora/products/caldigit-ts4-thunderbolt-4-dock.jpg",
+    "gallery": [
+      "/images/products/thunderbolt-dock.svg"
+    ],
+    "price": 38990,
+    "originalPrice": 42990,
+    "currency": "INR",
+    "discount": "9% OFF",
+    "rating": 4.7,
+    "reviewCount": 2150,
+    "specifications": [
+      {
+        "label": "Ports Total",
+        "value": "18 I/O Ports"
+      },
+      {
+        "label": "Host Charging",
+        "value": "98W Power Delivery to connected laptop"
+      },
+      {
+        "label": "Networking",
+        "value": "2.5 Gigabit Ethernet (2.5x faster than standard GbE)"
+      },
+      {
+        "label": "Thunderbolt 4",
+        "value": "3x Thunderbolt 4 ports (40 Gbps bandwidth)"
+      },
+      {
+        "label": "USB Ports",
+        "value": "5x USB-A (10 Gbps), 3x USB-C (10 Gbps, one with 20W charge)"
+      },
+      {
+        "label": "Media Readers",
+        "value": "UHS-II SD 4.0 and microSD card slots"
+      }
+    ],
+    "pros": [
+      "Single Thunderbolt cable handles displays, power, audio, and all peripherals",
+      "Full 98W power delivery charges 16-inch laptops without throttling",
+      "Front 20W USB-C port charges iPhones and iPads rapidly without host laptop on",
+      "Solid aluminum heatsink chassis runs whisper-cool under heavy video loads"
+    ],
+    "cons": [
+      "Premium financial investment for specialized power users",
+      "Power supply brick is fairly substantial in size"
+    ],
+    "bestFor": [
+      "Creative Studios & Video Editors",
+      "MacBook Pro Multi-Monitor Workstations",
+      "Productivity Power Users"
+    ],
+    "badges": [
+      "BEST IN CLASS",
+      "ULTIMATE DOCK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=CalDigit+TS4+Dock",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "kitchen-001",
+    "name": "Philips Digital Air Fryer HD9252/90 (4.1L)",
+    "slug": "philips-digital-air-fryer-hd9252-4-1l",
+    "brand": "Philips",
+    "category": "home-kitchen",
+    "subcategory": "appliances",
+    "description": "The pioneer of healthy rapid-air cooking. The Philips HD9252 features a patented Starfish bottom design that creates 360-degree high-velocity cyclonic heat, crisping french fries, paneer tikka, and chicken wings with up to 90% less oil. Features a digital touchscreen with 7 convenient one-touch presets, Keep Warm mode, and 100% dishwasher-safe non-stick parts.",
+    "shortDescription": "Compact 4.1L digital air fryer with patented Starfish Rapid Air convection.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451594/nexora/products/philips-digital-air-fryer-hd9252-4-1l.jpg",
+    "gallery": [
+      "/images/products/air-fryer.svg"
+    ],
+    "price": 7999,
+    "originalPrice": 11995,
+    "currency": "INR",
+    "discount": "33% OFF",
+    "rating": 4.5,
+    "reviewCount": 14600,
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "4.1 Liters (Ideal for 2 to 4 people)"
+      },
+      {
+        "label": "Technology",
+        "value": "Rapid Air with Starfish air-circulation base"
+      },
+      {
+        "label": "Power",
+        "value": "1400 Watts rapid heating"
+      },
+      {
+        "label": "Presets",
+        "value": "7 Pre-set cooking menus + Manual Temperature control"
+      },
+      {
+        "label": "Temperature Range",
+        "value": "60°C to 200°C"
+      },
+      {
+        "label": "Cleaning",
+        "value": "QuickClean basket with dishwasher-safe removable parts"
+      }
+    ],
+    "pros": [
+      "Starfish swirl base cooks food thoroughly without constant mid-cycle shaking",
+      "Preheats in under 3 minutes, cutting dinner preparation time by half",
+      "Extremely compact footprint fits snugly under standard kitchen wall cabinets",
+      "NutriU smartphone app offers 500+ tested regional and healthy recipes"
+    ],
+    "cons": [
+      "4.1L basket serves small families; larger households of 5+ should choose XXL",
+      "Outer body can get slightly warm during continuous 200°C baking"
+    ],
+    "bestFor": [
+      "Couples & Small Families",
+      "Health-Conscious Fitness Cooks",
+      "Quick Weeknight Meal Prep"
+    ],
+    "badges": [
+      "BEST SELLER",
+      "HEALTH CHOICE"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Philips+Air+Fryer+HD9252",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "kitchen-002",
+    "name": "Zulay Kitchen Original Handheld Milk Frother",
+    "slug": "zulay-kitchen-handheld-milk-frother",
+    "brand": "Zulay Kitchen",
+    "category": "home-kitchen",
+    "subcategory": "coffee-tools",
+    "description": "Elevate your morning coffee to barista quality in 15 seconds flat. Driven by a high-torque 12,500 RPM motor with food-grade 18/8 stainless steel whisking coil, the Zulay frother creates rich, silky microfoam for cappuccinos, lattes, matcha green tea, and protein shakes with effortless single-button simplicity.",
+    "shortDescription": "High-speed handheld electric whisk for lattes, matcha, and keto drinks.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451595/nexora/products/zulay-kitchen-handheld-milk-frother.jpg",
+    "gallery": [
+      "/images/products/kitchen-frother.svg"
+    ],
+    "price": 1299,
+    "originalPrice": 1999,
+    "currency": "INR",
+    "discount": "35% OFF",
+    "rating": 4.6,
+    "reviewCount": 48000,
+    "specifications": [
+      {
+        "label": "Motor Speed",
+        "value": "12,500 RPM High-Torque Electric Whisk"
+      },
+      {
+        "label": "Whisk Material",
+        "value": "Food-grade 18/8 Stainless Steel (Rust Resistant)"
+      },
+      {
+        "label": "Power Source",
+        "value": "2x AA Batteries (Not included)"
+      },
+      {
+        "label": "Stand",
+        "value": "Includes dedicated stainless steel upright counter stand"
+      },
+      {
+        "label": "Cleaning",
+        "value": "Rinse whisk under hot running tap water in 5 seconds"
+      }
+    ],
+    "pros": [
+      "Whips warm or cold whole milk, almond milk, and oat milk into dense foam",
+      "Mixes stubborn protein powder and collagen peptide clumps instantly",
+      "Includes sleek stainless steel upright stand to keep countertops spotless",
+      "Whisper-quiet motor won't wake family members during early mornings"
+    ],
+    "cons": [
+      "Uses AA batteries rather than rechargeable USB-C battery",
+      "Must hold button down continuously while whisking"
+    ],
+    "bestFor": [
+      "Home Baristas",
+      "Matcha & Chai Drinkers",
+      "Morning Protein Smoothie Drinkers"
+    ],
+    "badges": [
+      "TOP VALUE",
+      "KITCHEN ESSENTIAL"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Zulay+Kitchen+Milk+Frother",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "kitchen-003",
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker (6 Quart)",
+    "slug": "instant-pot-duo-7-in-1-pressure-cooker",
+    "brand": "Instant Pot",
+    "category": "home-kitchen",
+    "subcategory": "appliances",
+    "description": "The multi-cooker that revolutionized modern kitchens. The Instant Pot Duo combines 7 kitchen appliances in one: pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer. Speeds up cooking by up to 70% while locking in vitamins and flavors with 10+ proven safety mechanisms.",
+    "shortDescription": "Iconic 7-in-1 electric pressure cooker and slow cooker with 13 smart programs.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451596/nexora/products/instant-pot-duo-7-in-1-pressure-cooker.jpg",
+    "gallery": [
+      "/images/products/instant-pot.svg"
+    ],
+    "price": 8999,
+    "originalPrice": 11999,
+    "currency": "INR",
+    "discount": "25% OFF",
+    "rating": 4.7,
+    "reviewCount": 95000,
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "6 Quart (Serves up to 6 people)"
+      },
+      {
+        "label": "Functions",
+        "value": "Pressure Cook, Slow Cook, Sauté, Rice, Yogurt, Steam, Warm"
+      },
+      {
+        "label": "Inner Pot",
+        "value": "Food-grade 304 (18/8) Stainless Steel (Tri-ply bottom)"
+      },
+      {
+        "label": "Safety",
+        "value": "10+ Certified Safety Mechanisms including Overheat Protection"
+      },
+      {
+        "label": "Power",
+        "value": "1000 Watts"
+      }
+    ],
+    "pros": [
+      "Stainless steel inner pot has zero chemical non-stick coatings to peel",
+      "Cooks tender pulled meats, lentils, dal, and rice up to 70% faster",
+      "One-pot sauté mode browns onions and spices before pressure cooking",
+      "Huge global community of thousands of step-by-step verified recipes"
+    ],
+    "cons": [
+      "Inner sealing silicone ring can retain curry aroma (spares recommended)",
+      "Requires decent cabinet or counter storage space"
+    ],
+    "bestFor": [
+      "Meal-Preppers & Busy Families",
+      "One-Pot Cooking Enthusiasts",
+      "Healthy Curries & Soups"
+    ],
+    "badges": [
+      "KITCHEN LEGEND",
+      "EDITOR'S PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Instant+Pot+Duo+7+in+1",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "kitchen-004",
+    "name": "AeroPress Original Coffee and Espresso Maker",
+    "slug": "aeropress-original-coffee-maker",
+    "brand": "AeroPress",
+    "category": "home-kitchen",
+    "subcategory": "coffee-tools",
+    "description": "Beloved by world champion baristas, the AeroPress utilizes rapid total-immersion brewing with gentle pneumatic pressure to extract rich, smooth coffee in under one minute. Eliminates bitterness and acidity, and its nearly indestructible shatterproof construction makes it equally revered at home desks and campsite backpacks.",
+    "shortDescription": "Rapid total-immersion coffee maker that eliminates bitterness and acidity.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451597/nexora/products/aeropress-original-coffee-maker.jpg",
+    "gallery": [
+      "/images/products/aeropress-maker.svg"
+    ],
+    "price": 3999,
+    "originalPrice": 4799,
+    "currency": "INR",
+    "discount": "17% OFF",
+    "rating": 4.8,
+    "reviewCount": 24000,
+    "specifications": [
+      {
+        "label": "Brew Capacity",
+        "value": "1 to 3 cups (approx. 240ml per press)"
+      },
+      {
+        "label": "Brew Time",
+        "value": "Approximately 60 seconds"
+      },
+      {
+        "label": "Material",
+        "value": "Durable BPA-free and Phthalate-free Polypropylene"
+      },
+      {
+        "label": "Filter Type",
+        "value": "Micro-paper filters (Includes 350 filters)"
+      },
+      {
+        "label": "Cleaning",
+        "value": "Self-cleaning chamber; eject puck and rinse plunger in 10s"
+      }
+    ],
+    "pros": [
+      "Significantly smoother flavor profile with noticeably lower perceived acidity",
+      "Chamber cleans itself when ejecting the spent coffee puck into the bin",
+      "Completely shatterproof—cannot break like glass French presses",
+      "Endlessly versatile: brews espresso-style concentrate, cold brew, or Americano"
+    ],
+    "cons": [
+      "Brews 1-2 cups per cycle (not designed for 10-cup office dinner parties)",
+      "Requires disposable paper micro-filters or reusable metal mesh filter"
+    ],
+    "bestFor": [
+      "Coffee Enthusiasts",
+      "Solo Espresso & Americano Drinkers",
+      "Travelers & Campers"
+    ],
+    "badges": [
+      "BARISTA FAVORITE",
+      "UNBREAKABLE"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=AeroPress+Coffee+Maker",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "travel-001",
+    "name": "Bellroy Tech Kit Compact Organizer Pouch",
+    "slug": "bellroy-tech-kit-compact-organizer",
+    "brand": "Bellroy",
+    "category": "travel-lifestyle",
+    "subcategory": "travel-organizers",
+    "description": "The antidote to tangled cable rat's nests. The Bellroy Tech Kit Compact zips fully flat like a book for airport security scans. Features elastic cable retention loops, magnetic slip pockets for mouse and adapters, a dedicated stylus loop, and a rugged water-resistant woven shell crafted from 100% recycled PET plastic bottles.",
+    "shortDescription": "Clever origami tech organizer that opens flat with water-resistant recycled fabric.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451598/nexora/products/bellroy-tech-kit-compact-organizer.jpg",
+    "gallery": [
+      "/images/products/travel-pouch.svg"
+    ],
+    "price": 4999,
+    "originalPrice": 6200,
+    "currency": "INR",
+    "discount": "19% OFF",
+    "rating": 4.7,
+    "reviewCount": 3100,
+    "specifications": [
+      {
+        "label": "Dimensions",
+        "value": "170 x 130 x 55 mm"
+      },
+      {
+        "label": "Material",
+        "value": "Durable water-resistant woven fabric from recycled bottles"
+      },
+      {
+        "label": "Zippers",
+        "value": "Smooth-glide weather-resistant reverse coil zippers"
+      },
+      {
+        "label": "Internal Pockets",
+        "value": "Magnetic mouse pocket, 4x cable loops, SD card slip"
+      },
+      {
+        "label": "Warranty",
+        "value": "3-year manufacturer warranty"
+      }
+    ],
+    "pros": [
+      "Opens completely flat so every cord and adapter is visible at a single glance",
+      "Magnetic closure compartment holds wireless mouse snugly without zipper snags",
+      "Structured padded walls protect delicate adapters from accidental crushing",
+      "Sophisticated tailored look transitions from corporate meetings to flights"
+    ],
+    "cons": [
+      "Compact size cannot accommodate large 140W oversized charging bricks",
+      "Premium price reflect artisanal Bellroy stitching and leather accents"
+    ],
+    "bestFor": [
+      "Minimalist Commuters",
+      "Business Flight Travelers",
+      "Café Remote Workers"
+    ],
+    "badges": [
+      "DESIGN EXCELLENCE",
+      "EDITOR'S PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Bellroy+Tech+Kit",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "travel-002",
+    "name": "Apple AirTag (4-Pack) Item Trackers",
+    "slug": "apple-airtag-4-pack-luggage-tracker",
+    "brand": "Apple",
+    "category": "travel-lifestyle",
+    "subcategory": "travel-accessories",
+    "description": "Never worry about lost checked luggage or mislaid backpacks again. Apple AirTags leverage the global encrypted network of hundreds of millions of Apple devices to ping precise item locations worldwide. Features Precision Finding with Ultra Wideband on iPhone, IP67 water resistance, and a user-replaceable CR2032 battery that lasts over a year.",
+    "shortDescription": "Ultra-wideband item location tracking beacons powered by the Apple Find My network.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451600/nexora/products/apple-airtag-4-pack-luggage-tracker.jpg",
+    "gallery": [
+      "/images/products/airtag-tracker.svg"
+    ],
+    "price": 9990,
+    "originalPrice": 11900,
+    "currency": "INR",
+    "discount": "16% OFF",
+    "rating": 4.8,
+    "reviewCount": 41000,
+    "specifications": [
+      {
+        "label": "Tracking Network",
+        "value": "Apple Find My Network (End-to-end encrypted)"
+      },
+      {
+        "label": "Chipset",
+        "value": "Apple U1 chip for Ultra Wideband Precision Finding"
+      },
+      {
+        "label": "Battery",
+        "value": "Standard user-replaceable CR2032 coin cell (1+ year life)"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IP67 (Submersion in 1 meter of water for 30 minutes)"
+      },
+      {
+        "label": "Speaker",
+        "value": "Built-in acoustic chime speaker to locate misplaced keys"
+      }
+    ],
+    "pros": [
+      "Find My network has unrivaled global density across airport baggage hubs",
+      "Directional arrows guide you directly to your item inside hotel rooms",
+      "No recurring monthly subscription fees whatsoever",
+      "Compact coin profile tucks secretly into lining of suitcases and camera bags"
+    ],
+    "cons": [
+      "Precision Finding requires an iPhone (Android users cannot natively track)",
+      "Requires purchasing a separate keychain loop or adhesive mount"
+    ],
+    "bestFor": [
+      "International Travelers",
+      "Suitcase & Backpack Tracking",
+      "Frequent Key and Wallet Misplacers"
+    ],
+    "badges": [
+      "MUST-HAVE TRAVEL",
+      "TOP RATED"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple+AirTag+4+Pack",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "travel-003",
+    "name": "Cabeau Evolution S3 Memory Foam Travel Pillow",
+    "slug": "cabeau-evolution-s3-travel-pillow",
+    "brand": "Cabeau",
+    "category": "travel-lifestyle",
+    "subcategory": "travel-accessories",
+    "description": "The cure for long-haul flight neck kinks. The Cabeau Evolution S3 solves the number one flaw of travel pillows with its patented Seat Strap System that secures directly to airplane headrest wings, preventing your head from bobbing forward or slumping sideways. Features responsive ergonomic memory foam and a quick-dry moisture-wicking washable cover.",
+    "shortDescription": "Patented airplane seat strap travel pillow with 360-degree memory foam support.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451601/nexora/products/cabeau-evolution-s3-travel-pillow.jpg",
+    "gallery": [
+      "/images/products/travel-pillow.svg"
+    ],
+    "price": 3799,
+    "originalPrice": 4499,
+    "currency": "INR",
+    "discount": "16% OFF",
+    "rating": 4.6,
+    "reviewCount": 8200,
+    "specifications": [
+      {
+        "label": "Core Material",
+        "value": "High-density responsive contour memory foam"
+      },
+      {
+        "label": "Attachment",
+        "value": "Patented Seat Strap System clips to aircraft headrests"
+      },
+      {
+        "label": "Cover",
+        "value": "Quick-cooling, moisture-wicking machine washable cover"
+      },
+      {
+        "label": "Compression",
+        "value": "Compresses down to 1/3 of its size into included travel case"
+      },
+      {
+        "label": "Closure",
+        "value": "Adjustable front clasp for custom neck fit"
+      }
+    ],
+    "pros": [
+      "Headrest straps physically lock your head in upright posture while asleep",
+      "Raised 360-degree side lobes provide genuine jaw and chin rest support",
+      "Squishes down compactly into a zippered travel case that clips to your backpack",
+      "Removable outer shell is easy to wash after cross-continental flights"
+    ],
+    "cons": [
+      "Taller side walls can interfere with oversized over-ear headphones",
+      "Bulkier than inflatable plastic travel pillows (though vastly more comfortable)"
+    ],
+    "bestFor": [
+      "Long-Haul Flight Passengers",
+      "Red-Eye Flight Commuters",
+      "Train & Bus Travelers"
+    ],
+    "badges": [
+      "BEST SLEEP GEAR",
+      "TRAVEL ESSENTIAL"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Cabeau+Evolution+S3+Travel+Pillow",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "travel-004",
+    "name": "Nomatic 30L Travel Pack Water-Resistant Backpack",
+    "slug": "nomatic-30l-travel-pack-backpack",
+    "brand": "Nomatic",
+    "category": "travel-lifestyle",
+    "subcategory": "backpacks",
+    "description": "Engineered specifically for the modern one-bag travel nomad. The Nomatic 30L Travel Pack seamlessly expands from 20L for daily office commutes to 30L for weekend getaways. Features a TSA-ready lay-flat 16\" laptop compartment, waterproof tarpaulin construction with YKK zippers, RFID-blocking safe pocket, and innovative magnetic water bottle pockets.",
+    "shortDescription": "Expandable 20L-30L water-resistant commuter and airport travel backpack.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451602/nexora/products/nomatic-30l-travel-pack-backpack.jpg",
+    "gallery": [
+      "/images/products/travel-backpack.svg"
+    ],
+    "price": 24990,
+    "originalPrice": 28990,
+    "currency": "INR",
+    "discount": "14% OFF",
+    "rating": 4.7,
+    "reviewCount": 2200,
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "20 Liters (Daily) expanding to 30 Liters (Travel)"
+      },
+      {
+        "label": "Laptop Sleeve",
+        "value": "TSA Lay-Flat compartment fits up to 16\" MacBook Pro"
+      },
+      {
+        "label": "Material",
+        "value": "Custom water-resistant Tarpaulin with YKK waterproof zippers"
+      },
+      {
+        "label": "Features",
+        "value": "RFID Safe pocket, Magnetic snap bottle pockets, Roller luggage pass"
+      },
+      {
+        "label": "Dimensions",
+        "value": "48.2 x 30.5 x 15.2 to 22.8 cm"
+      }
+    ],
+    "pros": [
+      "Expands instantly when you pack extra clothes for weekend business trips",
+      "Magnetic water bottle pockets snap completely flush against the bag when empty",
+      "Stands upright on the floor on its own without toppling over",
+      "Luggage trolley sleeve slides securely over rolling suitcase handles"
+    ],
+    "cons": [
+      "Premium price bracket for committed gear enthusiasts",
+      "Structured tarpaulin material has a modern technical, non-leather aesthetic"
+    ],
+    "bestFor": [
+      "One-Bag Air Travelers",
+      "Tech Professionals & Consultants",
+      "Daily City Commuters"
+    ],
+    "badges": [
+      "ULTIMATE TRAVEL BAG",
+      "PREMIUM PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Nomatic+30L+Travel+Pack",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "grooming-001",
+    "name": "Philips Norelco Multigroom Series 7000 (23 Pieces)",
+    "slug": "philips-norelco-multigroom-series-7000",
+    "brand": "Philips Norelco",
+    "category": "beauty-grooming",
+    "subcategory": "grooming-tools",
+    "description": "The all-in-one grooming machine that renders salon appointments obsolete. The Series 7000 features DualCut technology with 2x more self-sharpening tempered steel blades that never need blade oil. Driven by an all-metal motor chassis with reinforced drive train, its lithium-ion battery delivers a staggering 5 hours of continuous runtime per charge.",
+    "shortDescription": "Heavy-duty 23-piece all-in-one steel trimmer with 5-hour cordless runtime.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451603/nexora/products/philips-norelco-multigroom-series-7000.jpg",
+    "gallery": [
+      "/images/products/beard-trimmer.svg"
+    ],
+    "price": 4499,
+    "originalPrice": 5999,
+    "currency": "INR",
+    "discount": "25% OFF",
+    "rating": 4.7,
+    "reviewCount": 64000,
+    "specifications": [
+      {
+        "label": "Blade System",
+        "value": "DualCut self-sharpening stainless steel blades"
+      },
+      {
+        "label": "Motor",
+        "value": "Full-metal motor with reinforced drive train"
+      },
+      {
+        "label": "Runtime",
+        "value": "Up to 5 hours on full charge (Lithium-ion)"
+      },
+      {
+        "label": "Attachments",
+        "value": "23 Pieces (Beard guards, Hair guards, Nose/Ear, Foil shaver)"
+      },
+      {
+        "label": "Washable",
+        "value": "100% Water-resistant; rinse blades directly under tap"
+      }
+    ],
+    "pros": [
+      "Unmatched 5-hour battery life means charging it once every 3-4 months",
+      "Full metal motor frame gives substantial ergonomic heft and zero blade bogging",
+      "Reinforced cutting guards will not bend or snag thick coarse facial hair",
+      "Completely washable cutting heads for quick hygienic tap cleaning"
+    ],
+    "cons": [
+      "Includes so many guard pieces that you need a storage pouch to keep them organized",
+      "Uses proprietary Philips barrel charger rather than USB-C"
+    ],
+    "bestFor": [
+      "Beard Styling & Maintenance",
+      "Home Haircuts & Body Grooming",
+      "Zero-Maintenance Durability"
+    ],
+    "badges": [
+      "BEST SELLER",
+      "UNMATCHED BATTERY"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Philips+Norelco+Multigroom+7000",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "grooming-002",
+    "name": "Oral-B Pro 1000 CrossAction Electric Toothbrush",
+    "slug": "oral-b-pro-1000-crossaction-electric-toothbrush",
+    "brand": "Oral-B",
+    "category": "beauty-grooming",
+    "subcategory": "personal-care",
+    "description": "Dentist-recommended oral care backed by clinically proven 300% greater plaque removal along the gumline compared to manual toothbrushes. The Oral-B Pro 1000 uses 3D cleaning action that oscillates, rotates, and pulsates. An integrated pressure sensor alerts you and automatically stops pulsations if you brush too aggressively, protecting delicate tooth enamel.",
+    "shortDescription": "Clinically proven oscillating-rotating rechargeable electric toothbrush with pressure sensor.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451604/nexora/products/oral-b-pro-1000-crossaction-electric-toothbrush.jpg",
+    "gallery": [
+      "/images/products/toothbrush.svg"
+    ],
+    "price": 3299,
+    "originalPrice": 4299,
+    "currency": "INR",
+    "discount": "23% OFF",
+    "rating": 4.6,
+    "reviewCount": 46000,
+    "specifications": [
+      {
+        "label": "Cleaning Action",
+        "value": "3D Cleaning (Oscillating, Rotating, and Pulsating)"
+      },
+      {
+        "label": "Speed",
+        "value": "8,800 Oscillations / 20,000 Pulsations per minute"
+      },
+      {
+        "label": "Pressure Sensor",
+        "value": "Stops pulsations automatically if brushing too hard"
+      },
+      {
+        "label": "Timer",
+        "value": "In-handle 2-minute timer with 30-second quadrant pacer"
+      },
+      {
+        "label": "Battery",
+        "value": "Rechargeable battery lasts up to 10 days per charge"
+      }
+    ],
+    "pros": [
+      "Small round brush head cups each individual tooth for deep posterior cleaning",
+      "Pressure sensor stops pulsation to prevent receded gums and enamel erosion",
+      "Quadrant timer buzzes every 30 seconds to ensure even dentist-grade cleaning",
+      "Universal handle accepts any Oral-B replacement head (CrossAction, FlossAction)"
+    ],
+    "cons": [
+      "NiMH battery takes overnight to charge fully",
+      "Slightly louder mechanical buzz than sonic vibration alternatives"
+    ],
+    "bestFor": [
+      "Daily Oral Hygiene",
+      "Plaque Prevention",
+      "People Transitioning from Manual Brushes"
+    ],
+    "badges": [
+      "DENTIST RECOMMENDED",
+      "TOP VALUE"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Oral-B+Pro+1000+Electric+Toothbrush",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "grooming-003",
+    "name": "Theragun Mini 2.0 Portable Percussive Massager",
+    "slug": "theragun-mini-2-0-percussive-massage-gun",
+    "brand": "Therabody",
+    "category": "beauty-grooming",
+    "subcategory": "personal-care",
+    "description": "Professional recovery in the palm of your hand. The redesigned Theragun Mini 2.0 is 20% smaller and 30% lighter than its predecessor, fitting discreetly into gym duffels and carry-ons. Powered by QuietForce technology, it delivers 12mm of deep muscle treatment amplitude across 3 calibrated speeds (1750, 2100, 2400 PPM) to dissolve knots and post-workout soreness.",
+    "shortDescription": "Ultra-portable 12mm amplitude percussive massage gun with QuietForce motor.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451605/nexora/products/theragun-mini-2-0-percussive-massage-gun.jpg",
+    "gallery": [
+      "/images/products/massage-gun.svg"
+    ],
+    "price": 14999,
+    "originalPrice": 17999,
+    "currency": "INR",
+    "discount": "17% OFF",
+    "rating": 4.7,
+    "reviewCount": 4600,
+    "specifications": [
+      {
+        "label": "Amplitude",
+        "value": "12mm deep muscle penetration"
+      },
+      {
+        "label": "Speeds",
+        "value": "3 Speeds (1750, 2100, 2400 Percussions per minute)"
+      },
+      {
+        "label": "Motor",
+        "value": "Proprietary brushless motor with QuietForce Technology"
+      },
+      {
+        "label": "Battery Life",
+        "value": "120 minutes total runtime (USB-C quick charge)"
+      },
+      {
+        "label": "Weight",
+        "value": "450 grams (1 lb)"
+      },
+      {
+        "label": "Attachments",
+        "value": "3 Attachments (Standard Ball, Dampener, Thumb)"
+      }
+    ],
+    "pros": [
+      "Patented ergonomic triangular shape reduces hand and wrist fatigue during self-use",
+      "12mm stroke amplitude delivers true therapeutic percussive force, not superficial vibration",
+      "USB-C charging means you don't need a clunky proprietary brick when traveling",
+      "Whisper-quiet motor allows you to massage while watching television without blasting volume"
+    ],
+    "cons": [
+      "More expensive than generic budget Amazon vibration guns",
+      "Cannot rotate arm angle like full-sized Theragun Pro models"
+    ],
+    "bestFor": [
+      "Runners & Gym Athletes",
+      "Desk Workers with Tight Traps & Shoulders",
+      "Frequent Commuters & Travelers"
+    ],
+    "badges": [
+      "PRO RECOVERY",
+      "PREMIUM PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Theragun+Mini+2.0",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "gaming-001",
+    "name": "Logitech G PRO X SUPERLIGHT 2 Wireless Gaming Mouse",
+    "slug": "logitech-g-pro-x-superlight-2-wireless-mouse",
+    "brand": "Logitech G",
+    "category": "gaming",
+    "subcategory": "gaming-mice",
+    "description": "The icon of professional competitive esports. Engineered in collaboration with the world's top esports athletes, the Superlight 2 weighs an astonishing 60 grams with zero structural honeycomb holes. Boasts LIGHTFORCE optical-mechanical hybrid switches for zero-debounce clicks, the state-of-the-art HERO 2 sensor with 32,000 DPI and 500+ IPS tracking, and up to 95 hours of battery life.",
+    "shortDescription": "Ultra-light 60g tournament esports wireless mouse with HERO 2 32K sensor.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451607/nexora/products/logitech-g-pro-x-superlight-2-wireless-mouse.jpg",
+    "gallery": [
+      "/images/products/gaming-mouse.svg"
+    ],
+    "price": 13995,
+    "originalPrice": 16995,
+    "currency": "INR",
+    "discount": "18% OFF",
+    "rating": 4.8,
+    "reviewCount": 7800,
+    "specifications": [
+      {
+        "label": "Weight",
+        "value": "60 grams ultralight (Solid shell)"
+      },
+      {
+        "label": "Sensor",
+        "value": "HERO 2 (100 - 32,000 DPI, >500 IPS)"
+      },
+      {
+        "label": "Polling Rate",
+        "value": "Up to 4000 Hz / 1K Hz out of the box"
+      },
+      {
+        "label": "Switches",
+        "value": "LIGHTFORCE Optical-Mechanical Hybrid Switches"
+      },
+      {
+        "label": "Battery Life",
+        "value": "Up to 95 hours of continuous motion"
+      },
+      {
+        "label": "Feet",
+        "value": "Additive-free 100% pure PTFE glide feet"
+      }
+    ],
+    "pros": [
+      "60g weight feels virtually weightless during high-speed tactical flick shots",
+      "Optical switches completely eliminate double-clicking failures forever",
+      "Flawless sub-1ms LIGHTSPEED wireless connection with zero transmission drops",
+      "Pure PTFE glide pads slide with zero friction across cloth and glass mousepads"
+    ],
+    "cons": [
+      "Symmetrical shell lacks thumb rest for casual office palm grips",
+      "Dedicated esports tool with no Bluetooth mode (uses 2.4GHz USB dongle only)"
+    ],
+    "bestFor": [
+      "Competitive FPS Gamers (Valorant, CS2, Apex)",
+      "High-Precision Cursor Work",
+      "Esports Enthusiasts"
+    ],
+    "badges": [
+      "ESPORTS CHAMPION",
+      "TOP RATED"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Logitech+G+PRO+X+SUPERLIGHT+2",
+    "affiliateUrl": null,
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "gaming-002",
+    "name": "Bose QuietComfort Ultra Wireless Noise Cancelling Earbuds",
+    "slug": "bose-quietcomfort-ultra-noise-cancelling-earbuds",
+    "brand": "Bose",
+    "category": "tech-gadgets",
+    "subcategory": "headphones",
+    "description": "The gold standard for in-ear acoustic isolation. The Bose QC Ultra Earbuds feature Bose Immersive Audio spatialized sound that creates a wider, more natural soundstage in front of you. CustomTune technology automatically analyzes the unique acoustic shape of your individual ear canal with a chime, tailoring sound and active noise cancellation precisely to your anatomy.",
+    "shortDescription": "World-class in-ear noise canceling earbuds with spatial Immersive Audio.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451610/nexora/products/bose-quietcomfort-ultra-noise-cancelling-earbuds.jpg",
+    "gallery": [
+      "/images/products/earbuds-anc.svg"
+    ],
+    "price": 23900,
+    "originalPrice": 27900,
+    "currency": "INR",
+    "discount": "14% OFF",
+    "rating": 4.5,
+    "reviewCount": 9100,
+    "specifications": [
+      {
+        "label": "Noise Canceling",
+        "value": "Bose CustomTune personalized active noise cancellation"
+      },
+      {
+        "label": "Spatial Audio",
+        "value": "Bose Immersive Audio (Still and Motion modes)"
+      },
+      {
+        "label": "Battery Life",
+        "value": "Up to 6 hours (24 hours total with wireless charging case)"
+      },
+      {
+        "label": "Fit System",
+        "value": "Bose Fit Kit with 3 ear tip and 3 stability band sizes"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IPX4 sweat and splash resistant"
+      }
+    ],
+    "pros": [
+      "Blocks cafe clamor and plane engine hum better than any other earbud on Earth",
+      "Bose Fit Kit stability bands lock earbuds securely without creating ear canal pressure",
+      "Aware Mode with ActiveSense lets you hear traffic while automatically silencing loud horns",
+      "Bose Immersive Audio breathes three-dimensional depth into classic stereo tracks"
+    ],
+    "cons": [
+      "Case is slightly larger than minimal AirPods Pro charging cases",
+      "Battery life drops to ~4 hours when running continuous Immersive Spatial Audio"
+    ],
+    "bestFor": [
+      "Commuters & Public Transit Riders",
+      "Gym Workouts & Fitness",
+      "In-Ear Noise Canceling Purists"
+    ],
+    "badges": [
+      "BEST IN-EAR ANC",
+      "PREMIUM PICK"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Bose+QuietComfort+Ultra+Earbuds",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "gaming-003",
+    "name": "Audio-Technica ATH-M50xBT2 Wireless Over-Ear Headphones",
+    "slug": "audio-technica-ath-m50xbt2-wireless-headphones",
+    "brand": "Audio-Technica",
+    "category": "tech-gadgets",
+    "subcategory": "headphones",
+    "description": "The wireless evolution of the legendary studio recording benchmark. Delivering the revered sonic signature of the original wired ATH-M50x, the BT2 model incorporates 45mm large-aperture neodymium drivers, dedicated AKM AK4331 audio DAC with LDAC codec support, dual beamforming mics for sidetone voice calls, and a massive 50 hours of continuous battery life.",
+    "shortDescription": "Legendary studio monitor sound with 50-hour battery, LDAC, and multipoint Bluetooth.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791451611/nexora/products/audio-technica-ath-m50xbt2-wireless-headphones.jpg",
+    "gallery": [
+      "/images/products/studio-headphones.svg"
+    ],
+    "price": 16990,
+    "originalPrice": 21990,
+    "currency": "INR",
+    "discount": "23% OFF",
+    "rating": 4.7,
+    "reviewCount": 15400,
+    "specifications": [
+      {
+        "label": "Driver Unit",
+        "value": "45mm Large-Aperture Neodymium with CCAW voice coils"
+      },
+      {
+        "label": "Frequency Response",
+        "value": "15 Hz – 28,000 Hz"
+      },
+      {
+        "label": "DAC",
+        "value": "AKM AK4331 Premium Audio Hi-Fi DAC"
+      },
+      {
+        "label": "Bluetooth Codecs",
+        "value": "LDAC, AAC, SBC (Multipoint pairing)"
+      },
+      {
+        "label": "Battery Life",
+        "value": "Up to 50 hours of continuous playback"
+      },
+      {
+        "label": "Wired Option",
+        "value": "Includes 1.2m detachable 3.5mm studio cable"
+      }
+    ],
+    "pros": [
+      "Pristine flat acoustic neutrality reproduces music exactly as recording engineers intended",
+      "Astronomical 50-hour battery life rarely requires charging more than once a month",
+      "Detachable 3.5mm cable lets you plug directly into guitar amps, audio interfaces, and DACs",
+      "90-degree swiveling earcups allow easy one-ear monitoring for mixing and podcasting"
+    ],
+    "cons": [
+      "Passive noise isolation only (does not include active electronic ANC)",
+      "Sound signature is honest and clinical rather than artificially bass-boosted"
+    ],
+    "bestFor": [
+      "Music Producers & Audio Editors",
+      "Serious Audiophiles",
+      "Home Studio Creators"
+    ],
+    "badges": [
+      "STUDIO LEGEND",
+      "PURE AUDIO"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Audio-Technica+ATH-M50xBT2",
+    "affiliateUrl": null,
+    "isFeatured": false,
+    "isEditorsPick": false,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  },
+  {
+    "id": "travel-005",
+    "name": "URBAN FOREST Oliver Black RFID Leather Wallet for Men",
+    "slug": "urban-forest-oliver-black-rfid-leather-wallet",
+    "brand": "URBAN FOREST",
+    "category": "travel-lifestyle",
+    "subcategory": "wallets-accessories",
+    "description": "Crafted from hand-selected genuine leather, the URBAN FOREST Oliver wallet combines classic gentleman's elegance with cutting-edge RFID blocking technology. Features 6 card slots, 2 spacious currency compartments, an integrated coin pouch, and transparent ID windows, all in a slim, pocket-friendly bifold profile.",
+    "shortDescription": "Handcrafted genuine leather bifold wallet with built-in RFID fraud protection and 6 card slots.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791459795/nexora/products/urban-forest-oliver-black-rfid-leather-wallet.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791459795/nexora/products/urban-forest-oliver-black-rfid-leather-wallet.jpg"
+    ],
+    "price": 469,
+    "originalPrice": 2000,
+    "currency": "INR",
+    "discount": "77% OFF",
+    "rating": 4.3,
+    "reviewCount": 12186,
+    "specifications": [
+      {
+        "label": "Material",
+        "value": "100% Genuine Full-Grain Leather"
+      },
+      {
+        "label": "Security",
+        "value": "Military-grade RFID Blocking Technology"
+      },
+      {
+        "label": "Card Capacity",
+        "value": "6 Dedicated Card Slots"
+      },
+      {
+        "label": "Currency Compartments",
+        "value": "2 Full-Length Cash Slots"
+      },
+      {
+        "label": "Coin Pocket",
+        "value": "Yes, Snap Button Coin Pouch"
+      },
+      {
+        "label": "Dimensions",
+        "value": "11.5 x 9 x 2 cm"
+      },
+      {
+        "label": "Weight",
+        "value": "110 grams"
+      }
+    ],
+    "pros": [
+      "Premium genuine leather with smooth matte finish and robust contrast stitching",
+      "Active RFID blocking prevents electronic card skimming and wireless theft",
+      "Generous 6 card slots plus coin pouch without adding pocket bulk",
+      "Exceptional 77% discount during Great Indian Festival"
+    ],
+    "cons": [
+      "Genuine leather takes a few days of daily carry to soften and form to pockets",
+      "Overfilling the coin pouch can increase folded thickness"
+    ],
+    "bestFor": [
+      "Everyday Carry (EDC)",
+      "Birthday & Festive Gifting",
+      "Commuters & Contactless Card Security"
+    ],
+    "badges": [
+      "EDITOR'S PICK",
+      "FESTIVAL DEAL"
+    ],
+    "amazonUrl": "https://www.amazon.in/Forest-Oliver-Blocking-Leather-Wallet/dp/B07XTJDJ7N",
+    "affiliateUrl": "https://link.amazon/B0hKlZrVC",
+    "isFeatured": true,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-08"
+  }
+]
