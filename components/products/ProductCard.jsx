@@ -114,7 +114,7 @@ export default function ProductCard({ product, showQuickAffiliate = true }) {
               <AffiliateButton
                 product={product}
                 size="sm"
-                label="Price"
+                label="Check Price"
               />
             )}
           </div>

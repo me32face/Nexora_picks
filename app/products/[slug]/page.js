@@ -116,30 +116,40 @@ export default async function ProductDetailPage({ params }) {
             </div>
 
             {/* Price Box */}
-            <div className="p-5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-slate-50/70 dark:bg-slate-900/60 flex items-center justify-between">
-              <div>
-                <span className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-slate-100">
-                  {formatPrice(product.price, product.currency)}
-                </span>
-                {product.originalPrice && (
-                  <div className="flex items-center gap-2 text-xs text-slate-400 mt-0.5">
-                    <span className="line-through">
-                      {formatPrice(product.originalPrice, product.currency)}
-                    </span>
-                    {product.discount && (
-                      <span className="font-bold text-pink-600 dark:text-pink-400">
-                        ({product.discount})
+            <div className="p-5 rounded-2xl border border-slate-200 dark:border-slate-800 bg-slate-50/70 dark:bg-slate-900/60">
+              <div className="flex items-center justify-between">
+                <div>
+                  <span className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-slate-100">
+                    {formatPrice(product.price, product.currency)}
+                  </span>
+                  {product.originalPrice && (
+                    <div className="flex items-center gap-2 text-xs text-slate-400 mt-0.5">
+                      <span className="line-through">
+                        {formatPrice(product.originalPrice, product.currency)}
                       </span>
-                    )}
-                  </div>
-                )}
+                      {product.discount && (
+                        <span className="font-bold text-pink-600 dark:text-pink-400">
+                          ({product.discount})
+                        </span>
+                      )}
+                    </div>
+                  )}
+                </div>
+
+                <AffiliateButton
+                  product={product}
+                  size="lg"
+                  label="Check Latest Price"
+                />
               </div>
 
-              <AffiliateButton
-                product={product}
-                size="lg"
-                label="Check Latest Price"
-              />
+              {/* Amazon Compliance Pricing Disclaimer */}
+              <p className="mt-3 pt-3 border-t border-slate-200/60 dark:border-slate-800/60 text-[11px] text-slate-500 dark:text-slate-400 flex items-center gap-1.5">
+                <svg className="w-3.5 h-3.5 text-slate-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <span>Price accurate as of editorial update. Real-time price & availability are determined on Amazon.in at checkout.</span>
+              </p>
             </div>
 
             {/* Summary */}
