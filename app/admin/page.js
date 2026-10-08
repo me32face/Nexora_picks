@@ -5,6 +5,7 @@ import Link from "next/link";
 import Container from "@/components/ui/Container";
 import Badge from "@/components/ui/Badge";
 import Button from "@/components/ui/Button";
+import { generateEditorialData } from "@/lib/editorialGenerator";
 
 const CATEGORIES = [
   { id: "tech-gadgets", name: "Tech & Gadgets" },
@@ -216,22 +217,15 @@ export default function AdminPage() {
       return;
     }
 
-    const cleanTitle = name.split("|")[0].split("-")[0].trim();
-    setShortDescription(`${cleanTitle} curated by Nexora Picks for premium build quality and verified utility.`);
-    setDescription(`Extensively evaluated by our editorial desk. The ${cleanTitle} stands out in its price category with dependable durability, clean aesthetics, and proven customer satisfaction.`);
-    setPros([
-      "Class-leading performance and build quality in its price range",
-      "Thoughtfully engineered for everyday reliability and ease of use",
-      "Verified positive long-term customer satisfaction"
-    ]);
-    setCons([
-      "High seasonal demand can occasionally cause stock and delivery delays"
-    ]);
-    setSpecs([
-      { label: "Category", value: CATEGORIES.find(c => c.id === category)?.name || "Lifestyle" },
-      { label: "Build Quality", value: "Premium Grade" },
-      { label: "Warranty", value: "Manufacturer Standard" }
-    ]);
+    const generated = generateEditorialData(name, category);
+    setShortDescription(generated.shortDescription);
+    setDescription(generated.description);
+    setPros(generated.pros);
+    setCons(generated.cons);
+    setSpecs(generated.specifications);
+    if (generated.badges && generated.badges[0]) {
+      setBadgeText(generated.badges[0]);
+    }
   }
 
   // Calculate discount

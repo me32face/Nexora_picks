@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { generateEditorialData } from "@/lib/editorialGenerator";
 
 export async function POST(request) {
   try {
@@ -33,6 +34,9 @@ export async function POST(request) {
 
     const id = product.id || `prod-${Date.now().toString(36)}`;
 
+    // Generate dynamic unique editorial content if not provided
+    const dynamicEditorial = generateEditorialData(product.name, product.category);
+
     // 2. Format product object ensuring compliance and full structure
     const formattedProduct = {
       id,
@@ -41,8 +45,8 @@ export async function POST(request) {
       brand: product.brand ? product.brand.trim() : "Premium Selection",
       category: product.category || "travel-lifestyle",
       subcategory: product.subcategory || "wallets-accessories",
-      description: product.description ? product.description.trim() : `${product.name} verified and reviewed by Nexora Picks editorial team.`,
-      shortDescription: product.shortDescription ? product.shortDescription.trim() : `${product.name} curated for durability and value.`,
+      description: product.description ? product.description.trim() : dynamicEditorial.description,
+      shortDescription: product.shortDescription ? product.shortDescription.trim() : dynamicEditorial.shortDescription,
       image: product.image || "https://res.cloudinary.com/dtowl6hgl/image/upload/v1791459795/nexora/products/urban-forest-oliver-black-rfid-leather-wallet.jpg",
       gallery: product.gallery && product.gallery.length > 0 ? product.gallery : [product.image],
       price: Number(product.price),
@@ -51,23 +55,14 @@ export async function POST(request) {
       discount: product.discount || (product.originalPrice ? `${Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)}% OFF` : null),
       rating: product.rating ? Number(product.rating) : 4.5,
       reviewCount: product.reviewCount ? Number(product.reviewCount) : 120,
-      specifications: product.specifications && product.specifications.length > 0 ? product.specifications : [
-        { label: "Category", value: product.category || "General" },
-        { label: "Authenticity", value: "100% Genuine Retail Pack" },
-        { label: "Warranty", value: "Manufacturer Standard Warranty" }
-      ],
-      pros: product.pros && product.pros.length > 0 ? product.pros : [
-        "Curated top performer in its price segment",
-        "Excellent build quality and verified user feedback"
-      ],
-      cons: product.cons && product.cons.length > 0 ? product.cons : [
-        "High retail demand may lead to intermittent inventory fluctuation"
-      ],
+      specifications: product.specifications && product.specifications.length > 0 ? product.specifications : dynamicEditorial.specifications,
+      pros: product.pros && product.pros.length > 0 ? product.pros : dynamicEditorial.pros,
+      cons: product.cons && product.cons.length > 0 ? product.cons : dynamicEditorial.cons,
       bestFor: product.bestFor && product.bestFor.length > 0 ? product.bestFor : [
         "Everyday Consumers",
         "Smart Value Seekers"
       ],
-      badges: product.badges && product.badges.length > 0 ? product.badges : ["CURATED PICK"],
+      badges: product.badges && product.badges.length > 0 ? product.badges : dynamicEditorial.badges,
       amazonUrl: product.amazonUrl || `https://www.amazon.in/s?k=${encodeURIComponent(product.name)}`,
       affiliateUrl: product.affiliateUrl || null,
       isFeatured: Boolean(product.isFeatured),
