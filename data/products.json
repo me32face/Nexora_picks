@@ -1,5 +1,64 @@
 [
   {
+    "id": "prod-mvaspuio",
+    "name": "MARS SPF50 PA++++ Cancel Concealer with Radiant Natural Finish (6.0 ml) (03-Dreamy Beige) | Lightweight | Medium to High Coverage | Long-Lasting & Multi-Purpose | Crease Resistant",
+    "slug": "mars-spf50-pa-cancel-concealer-with-radiant-natural-finish-6-0-ml-03-dreamy-beige-lightweight-medium-to-high-coverage-long-lasting-multi-purpose-crease-resistant",
+    "brand": "MARS",
+    "category": "beauty-grooming",
+    "subcategory": "wallets-accessories",
+    "description": "From the moment you unbox it, the MARS SPF50 PA++++ Cancel Concealer with Radiant Natural Finish (6.0 ml) (03 conveys quality through deliberate craftsmanship and balanced weight distribution. It seamlessly fits into modern living spaces while performing its core tasks with quiet efficiency.",
+    "shortDescription": "Combines thoughtful craftsmanship with user-first ergonomics, making MARS SPF50 PA++++ Cancel Concealer with Radiant Natural Finish (6.0 ml) (03 a smart lifestyle investment.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792144754/nexora/products/apihcmrpdsvi0akvrtxb.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792144754/nexora/products/apihcmrpdsvi0akvrtxb.jpg"
+    ],
+    "price": 179,
+    "originalPrice": 249,
+    "currency": "INR",
+    "discount": "28% OFF",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "specifications": [
+      {
+        "label": "Skin Safety",
+        "value": "Hypoallergenic Surgical Stainless Steel"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IPX7 Splash / Rinse Washable"
+      },
+      {
+        "label": "Battery Chemistry",
+        "value": "High-Density Lithium-Ion"
+      },
+      {
+        "label": "Warranty",
+        "value": "2-Year Manufacturer Warranty"
+      }
+    ],
+    "pros": [
+      "Whisper-quiet, smooth operation with clean contemporary aesthetics",
+      "Zero complex setup required — intuitive and immediately ready out of the box",
+      "Generous feature set that covers both casual daily needs and demanding intensive tasks"
+    ],
+    "cons": [
+      "High seasonal festival demand occasionally leads to temporary stock and delivery backorders"
+    ],
+    "bestFor": [
+      "Everyday Consumers",
+      "Smart Value Seekers"
+    ],
+    "badges": [
+      "EDITOR'S PICK"
+    ],
+    "amazonUrl": "https://link.amazon/B066qPCZW",
+    "affiliateUrl": "https://link.amazon/B066qPCZW",
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-16"
+  },
+  {
     "id": "prod-mvasm7ds",
     "name": "SWISS BEAUTY Makeup Primer Oil Free Mattifying Long Lasting Base, Shades, 30 ml",
     "slug": "swiss-beauty-makeup-primer-oil-free-mattifying-long-lasting-base-shades-30-ml",
