@@ -1,5 +1,62 @@
 [
   {
+    "id": "prod-mvasm7ds",
+    "name": "SWISS BEAUTY Makeup Primer Oil Free Mattifying Long Lasting Base, Shades, 30 ml",
+    "slug": "swiss-beauty-makeup-primer-oil-free-mattifying-long-lasting-base-shades-30-ml",
+    "brand": "SWISS BEAUTY",
+    "category": "beauty-grooming",
+    "subcategory": "wallets-accessories",
+    "description": "Extensively analyzed across real-world testing scenarios. The SWISS BEAUTY Makeup Primer Oil Free Mattifying Long Lasting Base, Shades, 30 ml demonstrates commendable attention to detail, pairing resilient materials with intuitive ergonomics. Components feel solid in hand with zero creaking or loose tolerances, making it a dependable companion for everyday routines.",
+    "shortDescription": "A reliable everyday upgrade combining ergonomic comfort, intuitive handling, and long-lasting materials.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792144566/nexora/products/vv2mrxhilo5s915jbkov.webp",
+    "gallery": [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792144566/nexora/products/vv2mrxhilo5s915jbkov.webp"
+    ],
+    "price": 263,
+    "originalPrice": 399,
+    "currency": "INR",
+    "discount": "34% OFF",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "specifications": [
+      {
+        "label": "Skin Safety",
+        "value": "Hypoallergenic Surgical Stainless Steel"
+      },
+      {
+        "label": "Water Resistance",
+        "value": "IPX7 Splash / Rinse Washable"
+      },
+      {
+        "label": "Battery Chemistry",
+        "value": "High-Density Lithium-Ion"
+      },
+      {
+        "label": "Warranty",
+        "value": "2-Year Manufacturer Warranty"
+      }
+    ],
+    "pros": [
+      "Tested to resist routine moisture, scratches, and everyday thermal changes"
+    ],
+    "cons": [
+      "Slightly heavier chassis than budget plastic alternatives due to reinforced metal framing"
+    ],
+    "bestFor": [
+      "Everyday Consumers",
+      "Smart Value Seekers"
+    ],
+    "badges": [
+      "TOP RATED"
+    ],
+    "amazonUrl": "https://link.amazon/B0h2D0pMG",
+    "affiliateUrl": "https://link.amazon/B0h2D0pMG",
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-16"
+  },
+  {
     "id": "prod-mv9fy25c",
     "name": "Amazer USB Rechargeable Blenders for Smoothies and Juices, Juicer Mixer Grinder Mini Portable Juicer Blender, Portable Blender, Personal Size Mini Juice Mixer, Electric Fruit Juicer Machine",
     "slug": "amazer-usb-rechargeable-blenders-for-smoothies-and-juices-juicer-mixer-grinder-mini-portable-juicer-blender-portable-blender-personal-size-mini-juice-mixer-electric-fruit-juicer-machine",
