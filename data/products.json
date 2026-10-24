@@ -1,5 +1,64 @@
 [
   {
+    "id": "prod-mvm5sfbq",
+    "name": "Mr. Case Back Cover for Oppo K13 5G",
+    "slug": "mr-case-back-cover-for-oppo-k13-5g",
+    "brand": "Mr. Case",
+    "category": "tech-gadgets",
+    "subcategory": "wallets-accessories",
+    "description": "With thousands of verified positive owner reviews, the Mr. Case Back Cover for Oppo K13 5G continues to be a benchmark in its category. Its resilient design shields against daily wear while delivering an intuitive, fuss-free user experience.",
+    "shortDescription": "A versatile high-utility standout featuring reinforced durability and glowing buyer satisfaction.",
+    "image": "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792831834/nexora/products/kv9aaywdwnvakz9pmbup.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/dtowl6hgl/image/upload/v1792831834/nexora/products/kv9aaywdwnvakz9pmbup.jpg"
+    ],
+    "price": 404,
+    "originalPrice": 999,
+    "currency": "INR",
+    "discount": "60% OFF",
+    "rating": 4.5,
+    "reviewCount": 1000,
+    "specifications": [
+      {
+        "label": "Build Standard",
+        "value": "Reinforced Electronic Grade"
+      },
+      {
+        "label": "Power Efficiency",
+        "value": "Smart Power Management"
+      },
+      {
+        "label": "Warranty",
+        "value": "1-Year Official Manufacturer Warranty"
+      },
+      {
+        "label": "Compliance",
+        "value": "CE, RoHS, BIS Certified"
+      }
+    ],
+    "pros": [
+      "Class-leading build quality with reinforced structural integrity and tactile finish",
+      "Effortless to maintain and clean with standard household microfiber cloths",
+      "Designed with hypoallergenic, skin-friendly, and eco-conscious certified composites"
+    ],
+    "cons": [
+      "Premium matte surface finish benefits from occasional microfiber wipe-downs to stay spotless"
+    ],
+    "bestFor": [
+      "Everyday Consumers",
+      "Smart Value Seekers"
+    ],
+    "badges": [
+      "TOP RATED"
+    ],
+    "amazonUrl": "https://link.amazon/B0hlTjX6M",
+    "affiliateUrl": "https://link.amazon/B0hlTjX6M",
+    "isFeatured": false,
+    "isEditorsPick": true,
+    "isDemo": false,
+    "lastUpdated": "2026-10-24"
+  },
+  {
     "id": "prod-mvm5mpso",
     "name": "Click to see full view  Ask Rufus  Can it protect the camera?   Does it come in other colours?   Is this case easy to grip?   Ask something else Mr. Case Back Cover for Oppo K13 5G Sleek Frosted Translucent Back Only Compatible with Wireless Magnetic Accessories | Anti-Scratch Shockproof Phone Case - White",
     "slug": "click-to-see-full-view-ask-rufus-can-it-protect-the-camera-does-it-come-in-other-colours-is-this-case-easy-to-grip-ask-something-else-mr-case-back-cover-for-oppo-k13-5g-sleek-frosted-translucent-back-only-compatible-with-wireless-magnetic-accessories-anti-scratch-shockproof-phone-case-white",
