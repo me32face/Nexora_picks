@@ -25,12 +25,14 @@ export async function POST(request) {
       );
     }
 
-    // 1. Generate clean slug and ID if not provided
-    const slug = product.slug || product.name
+    // 1. Generate clean slug and ID if not provided (capped to 80 chars to prevent filesystem ENAMETOOLONG errors)
+    const rawSlug = (product.slug || product.name || "product")
       .toLowerCase()
       .trim()
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/(^-|-$)/g, "");
+    const baseSlug = rawSlug.slice(0, 80).replace(/-+$/, "");
+    const slug = baseSlug || `product-${Date.now().toString(36)}`;
 
     const id = product.id || `prod-${Date.now().toString(36)}`;
 
